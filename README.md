@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Michael
-=====================
 
 Software Engineer
 -----------------
