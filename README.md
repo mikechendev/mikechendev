@@ -8,7 +8,14 @@ Software Engineer
 * 📫  You can reach me at [michael.chen.1120@gmail.com](mailto:michael.chen.1120@gmail.com)
 
 ### Skills
+<p align="left">
+ 
 
+</p>
+
+### Github Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=mikechendev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mikechendev)
 
 <!--
 **mikechendev/mikechendev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
