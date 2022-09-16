@@ -7,10 +7,16 @@ Software Engineer
 * 🖥️  Check out my portfolio at [mikechendev.github.io](https://mikechendev.github.io)
 * 📫  You can reach me at [michael.chen.1120@gmail.com](mailto:michael.chen.1120@gmail.com)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/michael-chen-74b973117/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+ 
+</p>
+
 ### Skills
 
 <p align="left">
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ 
 
 </p>
 
