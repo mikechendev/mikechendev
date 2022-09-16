@@ -14,6 +14,7 @@ Software Engineer
 </p>
 
 <h3 align="left"> Github Stats </h3>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mikechendev&count_private=true&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mikechendev&layout=compact&show_icons=true&theme=dracula)
 
